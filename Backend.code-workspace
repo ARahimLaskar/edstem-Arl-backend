@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "Backend",
+		"path": "."
+	},
+	{
+		"name": "node_modules",
+		"path": "../../JS Tiger/backend/node_modules"
+	}
+],
+  "settings": {}
+}
